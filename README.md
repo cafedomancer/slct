@@ -1,6 +1,6 @@
 # slct
 
-This app is for Instagrammers to select the best photo and and clean up slimilars.
+This app is for Instagrammers to select the best photo and clean up slimilars.
 
 ## Getting Started
 
