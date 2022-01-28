@@ -1,5 +1,7 @@
 # slct
 
+This app is for Instagrammers to select the best photo and and clean up slimilars.
+
 A new Flutter project.
 
 ## Getting Started
